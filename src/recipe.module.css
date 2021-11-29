@@ -1,0 +1,16 @@
+.recipe{
+    border-radius: 10px;
+    box-shadow: 0px 5px 20px rgb(92, 86, 86);
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    background: ivory;
+    min-width: 40px
+}
+/* I tried this, I liked the larger images better
+.image{
+    width: 100px;
+    height: 100px;
+}
+ */
